@@ -18,6 +18,7 @@ function App() {
           Learn React
           tomoya
           takuma
+          satake
         </a>
       </header>
     </div>
