@@ -17,6 +17,7 @@ function App() {
         >
           Learn React
           tomoya
+          takuma
         </a>
       </header>
     </div>
